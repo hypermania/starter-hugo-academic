@@ -28,7 +28,7 @@ experience:
     company_logo: Rice_Owls_logo
     location: Texas
     date_start: '2019-09-01'
-    date_end: 'Present'
+    date_end: ''
     description: Doing research in theoretical physics, with specialization in cosmology/high-energy astrophysics.
 
 design:
