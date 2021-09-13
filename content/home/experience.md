@@ -25,7 +25,7 @@ experience:
   - title: PhD Student in Physics
     company: Rice University
     company_url: ''
-    company_logo: org-R
+    company_logo: Rice_Owls_logo
     location: Texas
     date_start: '2019-09-01'
     date_end: 'Present'
